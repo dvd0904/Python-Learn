@@ -1,0 +1,3 @@
+- dir(str) in python console list all method can be used with string or can use help(str) to list all method and its capabilities
+- similar with list,...
+- import builtins and dir(builtins) to list all method of python can be accessed directly without dot (.)
